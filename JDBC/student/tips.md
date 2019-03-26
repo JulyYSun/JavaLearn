@@ -1,0 +1,1 @@
+## 需要在数据库中建立一个名为student的表，有name，age，id，major属性
