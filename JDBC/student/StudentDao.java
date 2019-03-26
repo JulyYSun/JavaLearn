@@ -7,6 +7,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 public class StudentDao {
+    //只列举出数据插入操作的方法
     public boolean insert(Student student){
         boolean flag=false;
         PreparedStatement pStat=null;
